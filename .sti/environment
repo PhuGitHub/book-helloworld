@@ -1,1 +1,1 @@
-MAVEN_ARGS_APPEND
+MAVEN_ARGS_APPEND=" -s /usr/data/m2/settings.xml"
