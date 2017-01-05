@@ -1,1 +1,1 @@
-HTTP_PROXY=http://surf.proxy.agis.allianz:8080
+MAVEN_ARGS=package -Popenshift -DskipTests -B -s /usr/data/m2/settings.xml
